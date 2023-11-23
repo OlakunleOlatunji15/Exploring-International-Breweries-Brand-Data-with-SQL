@@ -15,6 +15,7 @@ The data was obtained from the company's CSV file.
 
 INFORMATION ABOUT THE DATA SET.
 
+
 The dataset, titled 'International_Breweries.csv,' encompasses comprehensive data on brewery brands that were consumed across five West African countries, including Nigeria, Ghana, Togo, Benin, and Senegal. The dataset spans the years 2017 to 2019 and focuses on the consumption patterns of both Anglophone and Francophone populations in the region.
 The data set contains 13 attributes, including SALES_ID, SALES_REP, EMAILS, BRANDS, PLANT_COST, UNIT_PRICE, QUANTITY, COST, PROFIT, COUNTRIES, REGION, MONTHS, and YEARS. With a total of 1047 records from the outset
 
