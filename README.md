@@ -10,7 +10,7 @@ OBJECTICES
 The analysis aims to gain insights that will help the company make  informed decisions which will help  improve on busisness operations in the coming year and to meet areas of need.In order to do this a profit analysis ,brand analysis and geo location analysis will be carried out.
 
 
-DATA SOURCE 
+#DATA SOURCE 
 
 The data was obtained from the company's CSV file.
 
