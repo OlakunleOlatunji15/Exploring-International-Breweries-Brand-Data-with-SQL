@@ -23,7 +23,7 @@ The dataset, titled 'International_Breweries.csv,' encompasses comprehensive dat
 
 The data set contains 13 attributes, including SALES_ID, SALES_REP, EMAILS, BRANDS, PLANT_COST, UNIT_PRICE, QUANTITY, COST, PROFIT, COUNTRIES, REGION, MONTHS, and YEARS, With a total of 1047 records from the outset. Here below  a view of the table data set 
 
-[Uploading TABLE…]()
+![Screenshot (460)](https://github.com/OlakunleOlatunji15/Exploring-International-Breweries-Brand-Data-with-SQL/assets/150837291/56d64e46-9b78-45e8-bb37-fd5f59f4817d)
 
 
 
