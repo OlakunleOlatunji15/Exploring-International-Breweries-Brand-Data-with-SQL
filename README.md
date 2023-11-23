@@ -21,25 +21,39 @@ INFORMATION ABOUT THE DATA SET.
 
 The dataset, titled 'International_Breweries.csv,' encompasses comprehensive data on brewery brands that were consumed across five West African countries, including Nigeria, Ghana, Togo, Benin, and Senegal. The dataset spans the years 2017 to 2019 and focuses on the consumption patterns of both Anglophone and Francophone populations in the region.
 
+
+
 The data set contains 13 attributes, including SALES_ID, SALES_REP, EMAILS, BRANDS, PLANT_COST, UNIT_PRICE, QUANTITY, COST, PROFIT, COUNTRIES, REGION, MONTHS, and YEARS, With a total of 1047 records from the outset. Here below  a view of the table data set 
+
 
 ![Screenshot (460)](https://github.com/OlakunleOlatunji15/Exploring-International-Breweries-Brand-Data-with-SQL/assets/150837291/56d64e46-9b78-45e8-bb37-fd5f59f4817d)
 
 
 ANALYSIS/CASE STUDY QUESTIONS.
 
+
 The analysis questions are in 3 parts namely ,profit analysis ,brand analysis and geo-location analysis.
 
+
+
 SOME OF THE ANALYSIS UNDER THE THREE PARTS ABOVE
+
+
 
 (A) PROFIT ANALYSIS
 
 I. Within the space of the last three years, what was the profit worth of the breweries,
 inclusive of the anglophone and the francophone territories?
 
+
 The company has made a total profit of #105,587,420 across the five (5) countries in Africa from 2017 -2019.
 
+
+
 ![Screenshot (464)](https://github.com/OlakunleOlatunji15/Exploring-International-Breweries-Brand-Data-with-SQL/assets/150837291/cbb1fc11-ff0d-4ff4-91a4-3552b3b13f79)
+
+
+
 
 
 III. Country that generated the highest profit in 2019       
