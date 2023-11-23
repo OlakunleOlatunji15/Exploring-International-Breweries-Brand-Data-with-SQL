@@ -26,6 +26,35 @@ The data set contains 13 attributes, including SALES_ID, SALES_REP, EMAILS, BRAN
 ![Screenshot (460)](https://github.com/OlakunleOlatunji15/Exploring-International-Breweries-Brand-Data-with-SQL/assets/150837291/56d64e46-9b78-45e8-bb37-fd5f59f4817d)
 
 
+ANALYSIS/CASE STUDY QUESTIONS.
 
+The analysis questions are in 3 parts namely ,profit analysis ,brand analysis and geo-location analysis.
+
+SOME OF THE ANALYSIS UNDER THE THREE PARTS ABOVE
+
+(A) PROFIT ANALYSIS
+
+I. Within the space of the last three years, what was the profit worth of the breweries,
+inclusive of the anglophone and the francophone territories?
+
+The company has made a total profit of #105,587,420 across the five (5) countries in Africa from 2017 -2019.
+
+![Screenshot (464)](https://github.com/OlakunleOlatunji15/Exploring-International-Breweries-Brand-Data-with-SQL/assets/150837291/cbb1fc11-ff0d-4ff4-91a4-3552b3b13f79)
+
+
+III. Country that generated the highest profit in 2019       
+
+
+Ghana has the highest profit in the year 2019 the profit was summed to be #7144070.
+
+
+
+![Screenshot (466)](https://github.com/OlakunleOlatunji15/Exploring-International-Breweries-Brand-Data-with-SQL/assets/150837291/e35ac9a0-7ecd-4c73-8a38-febc569dccfd)
+
+
+(B) BRAND ANALYSIS
+
+I. Within the last two years, the brand manager wants to know the top three brands consumed in the
+francophone countries
 
 
