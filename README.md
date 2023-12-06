@@ -7,17 +7,17 @@
 ![signature](https://github.com/OlakunleOlatunji15/Exploring-International-Breweries-Brand-Data-with-SQL/assets/150837291/79210e1e-1fc1-4470-a106-c9f3485499d9)
 
 
-OBJECTICES
+### OBJECTICES
 
 The analysis aims to gain insights that will help the company make  informed decisions which will help  improve on busisness operations in the coming year and to meet areas of need.In order to do this a profit analysis ,brand analysis and geo location analysis will be carried out.
 
 
-#DATA SOURCE 
+### DATA SOURCE 
 
 The data was obtained from the company's CSV file.
 
 
-## INFORMATION ABOUT THE DATA SET.
+### INFORMATION ABOUT THE DATA SET.
 
 
 
@@ -31,7 +31,7 @@ The data set contains 13 attributes, including SALES_ID, SALES_REP, EMAILS, BRAN
 ![Screenshot (460)](https://github.com/OlakunleOlatunji15/Exploring-International-Breweries-Brand-Data-with-SQL/assets/150837291/56d64e46-9b78-45e8-bb37-fd5f59f4817d)
 
 
-ANALYSIS/CASE STUDY QUESTIONS.
+### ANALYSIS/CASE STUDY QUESTIONS.
 
 
 The analysis questions are in 3 parts namely ,profit analysis ,brand analysis and geo-location analysis.
@@ -42,7 +42,7 @@ SOME OF THE ANALYSIS UNDER THE THREE PARTS ABOVE
 
 
 
-(A) PROFIT ANALYSIS
+#### (A) PROFIT ANALYSIS
 
 I. Within the space of the last three years, what was the profit worth of the breweries,
 inclusive of the anglophone and the francophone territories?
@@ -68,7 +68,7 @@ Ghana has the highest profit in the year 2019 the profit was summed to be #71440
 ![Screenshot (466)](https://github.com/OlakunleOlatunji15/Exploring-International-Breweries-Brand-Data-with-SQL/assets/150837291/e35ac9a0-7ecd-4c73-8a38-febc569dccfd)
 
 
-(B) BRAND ANALYSIS
+#### (B) BRAND ANALYSIS
 
 I. Within the last two years, the brand manager wants to know the top three brands consumed in the
 francophone countries
