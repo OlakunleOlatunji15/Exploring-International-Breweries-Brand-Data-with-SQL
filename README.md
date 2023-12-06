@@ -17,7 +17,7 @@ The analysis aims to gain insights that will help the company make  informed dec
 The data was obtained from the company's CSV file.
 
 
-##INFORMATION ABOUT THE DATA SET.
+## INFORMATION ABOUT THE DATA SET.
 
 
 
